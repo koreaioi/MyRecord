@@ -1,6 +1,11 @@
 # 3-1-class
 3 - 1 학기 수업
 
+## 공시성적
+6전공 1교양 19학점 - 학점 4.42
+![image](https://github.com/koreaioi/3-1-class/assets/147616203/36cf38a9-47ad-4493-96bf-0043c42ceade)
+
+
 <details>
    <summary>중간고사 후기</summary>
 
