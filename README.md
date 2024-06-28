@@ -2,8 +2,9 @@
 3 - 1 학기 수업
 
 ## 공시성적
-6전공 1교양 19학점 - 학점 4.42
-![image](https://github.com/koreaioi/3-1-class/assets/147616203/36cf38a9-47ad-4493-96bf-0043c42ceade)
+과탑 입니다만...?
+6전공 1교양 19학점 - 학점 4.5   
+![image](https://github.com/koreaioi/3-1-class/assets/147616203/01418894-cb45-40e6-a179-5e5f7f4e45e8)
 
 
 <details>
