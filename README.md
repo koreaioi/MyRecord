@@ -5,7 +5,7 @@
 ![image](https://github.com/koreaioi/3-1-class/assets/147616203/01418894-cb45-40e6-a179-5e5f7f4e45e8)
 
 계절학기 - 고급웹프로그래밍 A+
-![img.png](3%20-%201학기/images/고웹프 성적.png)
+![image](https://github.com/user-attachments/assets/6de15fce-edd0-4d47-aa56-035e07e541f4)
 
 <details>
    <summary>중간고사 후기</summary>
