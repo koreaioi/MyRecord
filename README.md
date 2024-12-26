@@ -1,4 +1,4 @@
-# 3 - 1 학기
+# 2024년 1, 2학기
 ### 3 - 1 성적
 
 6 전공 1 교양 19학점 - 학점 4.5   
@@ -7,16 +7,15 @@
 계절학기 - 고급웹프로그래밍 A+
 ![image](https://github.com/user-attachments/assets/6de15fce-edd0-4d47-aa56-035e07e541f4)
 
-# 3 - 2 학기
 ### 3 - 2 성적
 3전공 2교양 13학점 - 학점 4.15
 ![image](https://github.com/user-attachments/assets/78809b9a-3b81-42ab-80f1-a521593e3b27)
 
 
-
+# 3 - 1 학기
 
 <details>
-   <summary>중간고사 후기</summary>
+   <summary>3학년 1학기 중간고사 후기</summary>
 
 ## 중간고사 후기
 내가 생각한 난이도 정반대로 나와서 공부 배분에 실패...
@@ -63,11 +62,8 @@ ex stupid sort, BST 과정, T(i,j,k) = T(i-1,j,k) + T(i,j-1,k) + T(i,j,k-1)....
 기말고사도 지엽적으로 문법적인 요소를 잘 알아야한다. 
 </details>
 
-백엔드 스터디 종료! 노션!
-https://www.notion.so/Tave-4-9d1834793d9e407384c95fc74c8a7821?pvs=4
-
 <details>
-   <summary>기말고사 후기</summary>
+   <summary>3학년 1학기 기말고사 후기</summary>
 
 ## 기말고사 후기
 후반기 프로젝트 ERD 설계, API 명세서 등등 생각할 게 많아서 기말 공부를 많이 못함
@@ -319,6 +315,10 @@ A+ 감사합니다 안재희 교수님
 
 ### 4차 산업혁명 동아리 T.A.V.E
 13기 이수 완료
+
+백엔드 스터디 종료! 노션!
+https://www.notion.so/Tave-4-9d1834793d9e407384c95fc74c8a7821?pvs=4
+
 
 ### KT 랜선 야학
 추가합격 후 교육 대기중
